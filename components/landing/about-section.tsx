@@ -63,7 +63,7 @@ export default function AboutSection() {
   const sectionRefs = [[ref1, inView1], [ref2, inView2], [ref3, inView3], [ref4, inView4]]
 
   return (
-    <section className="py-14 bg-gradient-to-b from-gray-50 to-white">
+    <section className="py-24 bg-gradient-to-b from-gray-50 to-white">
       <div className="max-w-7xl mx-auto px-6">
         <div
           ref={headerRef}

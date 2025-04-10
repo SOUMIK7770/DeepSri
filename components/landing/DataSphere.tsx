@@ -26,7 +26,7 @@ export default function DataSphere() {
   const [headerRef, headerInView] = useInView()
 
   return (
-    <section className="py-14 bg-gradient-to-b from-white to-gray-50">
+    <section className="py-24 bg-gradient-to-b from-white to-gray-50">
       <div className="max-w-7xl mx-auto px-6">
         <div
           ref={headerRef}

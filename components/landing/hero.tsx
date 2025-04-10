@@ -33,7 +33,7 @@ export default function Hero() {
     {
       title: "TRANSFORMING\nIDEAS INTO\nREALITY",
       subtitle: "Innovative Solutions, Lasting Impact",
-      description: "With expertise in big data and digital transformation, we help businesses navigate the evolving landscape.",
+      description: "With expertise in Big Data and digital transformation, we help businesses navigate the evolving landscape.",
       image: "/images/hero-illustration2.png",
       textSize: {
         title: "text-4xl md:text-5xl lg:text-6xl",
